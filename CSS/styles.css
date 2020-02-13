@@ -1,0 +1,23 @@
+img:hover {
+    background-color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+.bacon {
+    background-color: green;
+    max-width: 40%;
+    height: auto;
+}
+
+.broccoli {
+    background-color: red;
+    max-width: 25.5%;
+    height: auto;
+}
+
+#heading {
+    color: blue;
+}
